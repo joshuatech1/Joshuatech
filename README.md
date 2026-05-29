@@ -61,3 +61,23 @@ href="https://www.facebook.com/100087010467670"><img title="Author" src="https:/
 ## 1.FIRST STEP
 ## FORK MY 💥 REPO
 
+## 1.FIRST STEP
+## FORK MY 💥 REPO
+
+
+<a href= "https://github.com/abdallahsalimjuma/DULLAH-XMD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+star✨ my repo bruh don't forget please🤖
+
+
+## 2.SECOND STEP 
+
+
+ GET SESSION ID BY
+ 
+<a href="https://dullahxmdscanner-07e0252a2963.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+ 
+<a href="https://dullahxmdscanner-07e0252a2963.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
