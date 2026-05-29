@@ -81,3 +81,19 @@ star✨ my repo bruh don't forget please🤖
  
 <a href="https://dullahxmdscanner-07e0252a2963.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
+## 3.THIRD STEP 
+**1. If You Don't Have An Account On Heroku**
+- <a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-brown?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
+
+**2. If You Have Account On Heroku**
+
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dullah-xmd-website.vercel.app/)***
+
+<!-- DEPLOY ON RENDER -->
+
+<p><strong>• If you don't have an account on Render, create one and deploy.</strong></p>
+
+<a href="https://dashboard.render.com/github/exists?next=%2Fselect-repo%3Ftype%3Dweb%26appInstall%3D1" target="_blank">
+  <img alt="DEPLOY" src="https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
