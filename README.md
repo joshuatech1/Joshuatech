@@ -117,10 +117,10 @@ _Termux Setup not recommended_
 </table 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/255716945971" target="_blank">
+<a href="https://wa.me/255620511416" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vb6b5YoCMY0BMlXAvQ3H" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
