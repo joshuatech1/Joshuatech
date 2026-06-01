@@ -1,4 +1,4 @@
-# JOSHUATECH-xᴍᴅ v² 
+# ᴊᴏsʜᴜᴀᴛᴇᴄʜ-xᴍᴅ v² 
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
