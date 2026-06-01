@@ -6,9 +6,11 @@
   </a>
 </p>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+DULLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DULLAH;PUBLIC+RELEASED+DATE;16/04/2025" alt="Typing SVG" />
-  </a>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=JOSHUA+TECH;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOSHUA+TECH;FAST+AND+RELIABLE;PUBLIC+RELEASED+DATE" alt="Typing SVG" />
+</a>
   </p>
 
 <p align="center">
