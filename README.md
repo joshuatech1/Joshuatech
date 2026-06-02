@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma">
-    <img alt="DULLA-XMD logo" height="200" src="https://files.catbox.moe/533oqh.jpg">
+    <img alt="JOSHUA TECH-XMD logo" height="200" src="https://ibb.co/SwMgkkKD">
   </a>
 </p>
   
