@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="DULLAH-XMD" height="300" src="https://files.catbox.moe/533oqh.jpg">
+    <img alt="DULLAH-XMD" height="300" src="https://ibb.co/SwMgkkKD">
   </a>
 </p>
 <div align="center">
