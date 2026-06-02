@@ -1,17 +1,22 @@
-# ᴊᴏsʜᴜᴀᴛᴇᴄʜ-xᴍᴅ v² 
+# ᴊᴏsʜᴜᴀ ᴛᴇᴄʜ xᴍᴅ v² 
 
 <p align="center">
-  <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="DULLAH-XMD" height="300" src="https://ibb.co/SwMgkkKD">
+  <a href="https://www.youtube.com/@JoshuaTech-p5b">
+    <img alt="JOSHUA TECH XMD" height="300" src="https://i.ibb.co/SwMgkkKD/image.jpg">
   </a>
 </p>
+
 <div align="center">
 
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=JOSHUA+TECH;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOSHUA+TECH;FAST+AND+RELIABLE;PUBLIC+RELEASED+DATE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=JOSHUA+TECH+XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOSHUA+TECH;FAST+AND+RELIABLE;PUBLIC+RELEASED+DATE" alt="Typing SVG" />
 </a>
-  </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@JoshuaTech-p5b">
+    <img alt="JOSHUA TECH XMD" height="200" src="https://i.ibb.co/SwMgkkKD/image.jpg">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma">
