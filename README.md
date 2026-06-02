@@ -25,8 +25,8 @@
 </p>
   
 </h1> 
-<p align="center">l introduce <b>JOSHUA TEC-xmd</b>, a  simple WhatsApp bot Created By JOSHUA TECH</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="Dullah xmd :: Visitor's Count" /></p>
+<p align="center">l introduce <b>JOSHUA TECH-xmd</b>, a  simple WhatsApp bot Created By JOSHUA TECH</p>
+
 
 ---
 
